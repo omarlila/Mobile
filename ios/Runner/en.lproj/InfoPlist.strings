@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "We use the camera to allow the user to take a photo and upload it in a message to the AI model.";
+NSPhotoLibraryUsageDescription = "We use the camera to allow the user to select a photo from their camera roll to upload it to the AI model.";
+NSMicrophoneUsageDescription = "We use the user's microphone to transcribe audio into text.";
